@@ -336,3 +336,8 @@ textarea{
       width: 100px;
     height: 70px;  
 }
+input:focus{
+    outline: none;
+    border: 2px solid violet;
+    box-shadow: 0 0 25px violet;
+}
